@@ -19,4 +19,4 @@ On completion of fully tested code within local development environment:
     1. Test after merge to make sure all is working correctly.
     2. Resolve any new conflicts.
 3. Push to repo.
-  1. Tag the commit with the version number.
+ 
