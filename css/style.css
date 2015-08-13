@@ -1,0 +1,82 @@
+body{
+    background-color: #FFFDFF;
+    font-family: 'Playfair Display', serif;
+    color: #523E5F;
+    
+}
+p{
+    font-size: 19px;
+    margin-bottom: 25px;
+    
+}
+
+#mainHead{
+    width: 100%;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    background-color: #79ADBF;
+    color: #ECF2E1;
+}
+
+h4{
+font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+}
+
+#projects{
+    position: relative;
+    top: 50px;
+    padding: 20px;
+    
+
+}
+
+h3{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+.info{
+    position: relative;
+    top: 35px;
+}
+
+.projectTitle{
+    border-bottom: 3px solid #48737F;
+    margin: 0 center;
+    margin-top: 40px;
+    
+}
+
+.footer{
+    width: 100%;
+    color: #523E5F;
+    height: 60px;
+    position: relative;
+    top: 100px
+    
+}
+.phone{
+   position:relative;
+    top: 9px;
+    left: 100px;
+    width: 280px;
+    
+}
+
+.email{
+    position: relative;
+    top: -40px;
+    left: 400px;
+    width: 280px;
+}
+
+.copyright{
+    margin: 0 auto;
+    width: 280px;
+    text-align: center;
+    position: relative;
+    top: -90px;
+    left: 200px;
+}
