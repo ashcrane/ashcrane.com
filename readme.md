@@ -8,6 +8,9 @@ A static webpage of a single html file to convey at least 10 projects that I hav
 ---
 For a single site with only one .html file, the server architecture consists of a single-tier server on Digital Ocean. The server has 512 MB Ram, 20GB Disk Space, and the OS is Ubuntu 12.04.5 x64. The software includes git and apache2.
 
+#####Staging Server
+The staging server architecture consists of a single-tier server on Digital Ocean. The server has 512 MB Ram, 20GB Disk Space, and the OS is Ubuntu 12.04.5 X64. The software included on the server is git and apache2.
+
 #####Deployment Steps
 ---
 On completion of fully tested code within local development environment:
