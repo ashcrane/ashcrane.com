@@ -15,11 +15,13 @@ The staging server architecture consists of a single-tier server on Digital Ocea
 ---
 On completion of fully tested code within local development environment:
 
-1. Pull master branch to make sure that local development branch is updated with latest information.
+Push the tested code to the staging server.
+1. Pull master branch to make sure that staging branch is updated with latest information.
   1. Resolve any conflicts.
   2. Once any conflicts are resolved, commit new changes and pull the master branch again.
-2. Merge local dev branch with master branch.
+2. Merge staging dev branch with master branch.
     1. Test after merge to make sure all is working correctly.
     2. Resolve any new conflicts.
-3. Push to repo.
+3. After fully testing and everything is working properly, push to the repo.
+4. Push to production server.
  
